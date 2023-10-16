@@ -1,0 +1,12 @@
+dump/
+data/
+ogb-data/
+__pycache__/
+script/
+drugood-data*/
+drugood-data*
+ogb-data
+data
+*.out
+*.tar.gz
+checkpoint

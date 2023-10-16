@@ -1,0 +1,6 @@
+includes:
+  - ../base.yaml
+dataset:
+  shift_type: covariate
+model:
+  model_name: vGIN

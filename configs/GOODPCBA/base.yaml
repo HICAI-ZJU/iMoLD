@@ -1,0 +1,10 @@
+includes:
+  - ../base.yaml
+model:
+  model_layer: 5
+  global_pool: mean
+  model_name: vGIN
+train:
+  # num_steps: 10
+  test_bs: 128
+  # mile_stones: [150]
